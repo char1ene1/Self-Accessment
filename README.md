@@ -19,7 +19,7 @@
 # https://www.linkedin.com/jobs/view/4315659210
 -experience with game development, Unity and C#
 # https://www.linkedin.com/jobs/view/4317393033
--Experience with Modeling, rendering, materianls, knowledge of Unity C#, experience with game assets
+-Experience with Modeling, rendering, materianls, knowledge of Unity C#, experience with game assets  
 --------------------------------------------------
 # Resume
 

@@ -10,4 +10,9 @@
 # programming specialization
 #Gameplay programmmer
 #Graphics
+.....................................
+# Interns/Jobs
+#https://www.linkedin.com/jobs/view/4260762733
+-I can Design and keep documentation of code, C# and Art knowledge
+-I need to get 3 years of experience 
 
